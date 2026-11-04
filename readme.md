@@ -245,3 +245,7 @@ Update by @0x3dlux :
 > logo.naxclow.com.cn
 > v720.naxclow.com
 > v720.p2p.naxclow.com
+
+## Project standards
+
+See [PROJECT_STANDARDS.md](docs/PROJECT_STANDARDS.md) for hardware/firmware scope, protocol evidence, privacy, compatibility, and testing standards.
